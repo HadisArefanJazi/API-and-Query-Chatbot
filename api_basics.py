@@ -225,6 +225,7 @@ def delete_enrollment(year: int):
 
 import requests
 
+# This imports the library that lets python call an API.
 
 # ============================================================
 # 1. api url
